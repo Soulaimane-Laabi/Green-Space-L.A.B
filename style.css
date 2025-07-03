@@ -103,7 +103,7 @@ h1 {
 /* Accueil */
 .accueil {
     background-color: #F1EFEC;
-    background-image: url(/images/back.jpg);
+    background-image: url(images/back.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat; 
